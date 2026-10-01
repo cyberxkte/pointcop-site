@@ -1,0 +1,197 @@
+{
+  "langName": "Deutsch",
+  "nav": {
+    "label": "Hauptmenü",
+    "home": "Start",
+    "support": "Hilfe",
+    "privacy": "Datenschutz"
+  },
+  "footer": {
+    "label": "Fußzeile",
+    "tagline": "PointCop - die Anzeigetafel für Padel und Tennis zum Spielen unter Freunden."
+  },
+  "landing": {
+    "title": "PointCop - Anzeigetafel für Padel und Tennis, auf Handy und Uhr",
+    "description": "Häng das Handy an den Zaun, und es führt den Spielstand - beim Padel wie beim Tennis. Die Uhr am Handgelenk ist die Fernbedienung. Kein Konto, keine Anmeldung, nichts verlässt das Handy.",
+    "eyebrow": "Anzeigetafel für Padel und Tennis",
+    "heading": "Schluss mit dem Streit über den Spielstand.",
+    "lead": "Häng das Handy an den Zaun, und es wird zur Anzeigetafel. Tippe auf eine Bildschirmhälfte für einen Punkt, halte gedrückt, um ihn zurückzunehmen. Die Uhr, die du ohnehin trägst, ist die Fernbedienung - du musst nie zum Netz zurücklaufen.",
+    "ctaPlay": "Bei Google Play laden",
+    "ctaApple": "Im App Store laden",
+    "ctaNote": "Kostenlos. Keine Werbung, kein Konto, keine In-App-Käufe.",
+    "featuresHeading": "Was sie kann",
+    "features": [
+      {
+        "heading": "Das Handy ist die Anzeigetafel",
+        "body": "Große Zahlen, über den ganzen Platz und bei Sonne lesbar. Der Bildschirm bleibt während des Matches an und schläft danach wieder ein."
+      },
+      {
+        "heading": "Die Uhr ist die Fernbedienung",
+        "body": "Eine Garmin oder Wear OS zählt Punkte vom Handgelenk hoch und runter und zeigt denselben Stand. Sie ist eine Zugabe, nie Voraussetzung: Die App funktioniert auch allein."
+      },
+      {
+        "heading": "Sie ruft das Spiel aus",
+        "body": "Punkte, Spiele, Sätze, Einstand, Vorteil, Tie-Break und Super-Tie-Break führt eine Zählmaschine mit 61 Tests im Rücken. Das Band sagt jederzeit, wie das Match steht."
+      },
+      {
+        "heading": "Deine Regeln",
+        "body": "Best of three oder best of five, Golden Point oder Vorteil, Tie-Break bei 6:6, Super-Tie-Break statt letztem Satz. Einmal pro Match einstellen und spielen."
+      },
+      {
+        "heading": "Farben pro Team",
+        "body": "Wähl eine Farbe je Paar: Die Anzeigetafel passt zu den Trikots, und niemand liest die falsche Hälfte."
+      },
+      {
+        "heading": "Neun Sprachen",
+        "body": "Deutsch, Englisch, Spanisch, Italienisch, Französisch, Portugiesisch, Japanisch, Chinesisch und Russisch - nach der Sprache des Handys."
+      }
+    ],
+    "stepsHeading": "So läuft ein Match",
+    "steps": [
+      "Format wählen: Sätze, Golden Point, Tie-Break. Passt auf einen Bildschirm.",
+      "Das Handy an den Zaun hängen, mit Blick auf den Platz.",
+      "Auf die eigene Hälfte tippen, um zu punkten. Gedrückt halten, um den Punkt zurückzunehmen, wenn sich jemand verzählt hat.",
+      "Mit einer Garmin oder Wear OS am Handgelenk: Uhr koppeln und vom Handgelenk aus punkten.",
+      "Die App ruft Spiel, Satz und Match aus und sagt Bescheid, wenn es vorbei ist."
+    ],
+    "formats": {
+      "heading": "Formate, die sie kennt",
+      "body": "Die Zählmaschine wurde gegen die echten Regeln geschrieben, und zu jedem dieser Fälle gibt es einen Test.",
+      "items": [
+        "Ein Satz, best of three oder best of five",
+        "Offenes Spiel: gar keine Sätze, nur Spiele, aufhören wann ihr wollt",
+        "Killer, Golden Point oder Vorteil beim Einstand",
+        "Tie-Break bei 6:6, auf sieben Punkte, mit zwei Punkten Abstand",
+        "Super-Tie-Break auf zehn anstelle des Entscheidungssatzes",
+        "Punkte nach dem Matchball werden ignoriert, damit ein versehentlicher Tipper das Ergebnis nicht umschreibt"
+      ]
+    },
+    "privacyHeading": "Nichts verlässt das Handy",
+    "privacyBody": "PointCop hat kein Konto, keine Anmeldung und keine Analyse. Die Match-Einstellungen liegen auf dem Gerät und sonst nirgends. Die App schickt uns nichts, weil es kein „uns\" gibt, dem man etwas schicken könnte."
+  },
+  "privacy": {
+    "title": "Datenschutzerklärung - PointCop",
+    "description": "PointCop erhebt keine personenbezogenen Daten. Nichts verlässt das Gerät: kein Konto, keine Analyse, keine Werbung.",
+    "heading": "Datenschutzerklärung",
+    "effective": "Gültig ab 1. Oktober 2026",
+    "summary": "PointCop erhebt nichts, sendet nichts und hat keine Server. Alles, was die App sich merkt, bleibt auf deinem Gerät und verschwindet, wenn du sie deinstallierst.",
+    "intro": "Diese Erklärung beschreibt, was PointCop („die App\") mit Informationen macht. Sie ist kurz, weil die App sehr wenig tut: Sie führt den Spielstand eines Padel- oder Tennismatches auf deinem eigenen Gerät.",
+    "sections": [
+      {
+        "heading": "Daten, die wir erheben",
+        "paragraphs": [
+          "Keine. Die App hat kein Konto, keine Registrierung, keine Anmeldung und kein Kontaktformular. Wir erheben weder deinen Namen noch deine E-Mail-Adresse, deinen Standort, deine Kontakte, deine Fotos oder irgendeine Werbekennung."
+        ]
+      },
+      {
+        "heading": "Daten, die auf deinem Gerät gespeichert werden",
+        "paragraphs": [
+          "Die App speichert lokal wenige Daten, damit sie sich beim nächsten Öffnen sinnvoll verhält:"
+        ],
+        "list": [
+          "Das Match-Format: Anzahl der Sätze, Golden Point oder Vorteil, Tie-Break-Einstellungen.",
+          "Die gewählten Farben und Namen der beiden Paare.",
+          "Deine Sprache, wenn du eine wählst, statt der des Handys zu folgen.",
+          "Den Stand eines laufenden Matches, damit versehentliches Schließen der App den Spielstand nicht mitnimmt."
+        ]
+      },
+      {
+        "heading": "Wohin diese Daten gehen",
+        "paragraphs": [
+          "Nirgendwohin. Sie werden in den app-eigenen Speicher auf deinem Handy geschrieben. Sie werden nicht hochgeladen, erreichen uns in keiner Sicherung und werden mit niemandem geteilt. Deinstallieren der App löscht sie.",
+          "Das Betriebssystem des Handys kann App-Daten in eine Sicherung aufnehmen, die du selbst aktiviert hast, etwa die von Android oder iCloud. Diese Sicherung gehört dir und richtet sich nach den Bedingungen von Google oder Apple, nicht nach unseren."
+        ]
+      },
+      {
+        "heading": "Verbindung zu einer Uhr",
+        "paragraphs": [
+          "Wenn du eine Garmin- oder Wear-OS-Uhr koppelst, tauscht die App Nachrichten mit ihr aus, um den Spielstand auf der Uhr anzuzeigen und die Punkte zu empfangen, die du vom Handgelenk aus zählst. Diese Nachrichten enthalten den Spielstand und die Match-Einstellungen, sonst nichts.",
+          "Unter Android läuft der Austausch über die Companion-App von Garmin Connect oder Wear OS, über die Verbindung, die dein Handy ohnehin zur Uhr hat. Unter iOS läuft er über Garmin Connect. Die Daten wandern zwischen deinen eigenen zwei Geräten; uns erreichen sie nicht."
+        ]
+      },
+      {
+        "heading": "Berechtigungen, die die App anfragt",
+        "paragraphs": [
+          "Unter Android fragt die App Bluetooth-Berechtigungen an. Sie dienen genau einem Zweck: mit einer von dir gekoppelten Uhr zu sprechen. Koppelst du nie eine Uhr, nutzt die App sie nie - und sie funktioniert vollständig ohne sie."
+        ]
+      },
+      {
+        "heading": "Analyse, Werbung und Tracking",
+        "paragraphs": [
+          "Gibt es nicht. Die App enthält kein Analyse-SDK, kein Werbe-SDK, keinen Absturzberichterstatter und kein Tracking irgendeiner Art. Sie erstellt kein Profil von dir und trifft keine automatisierten Entscheidungen über dich."
+        ]
+      },
+      {
+        "heading": "Kinder",
+        "paragraphs": [
+          "Die App ist für jedes Alter geeignet und erhebt von niemandem Daten, auch nicht von Kindern."
+        ]
+      },
+      {
+        "heading": "Deine Rechte",
+        "paragraphs": [
+          "Das Datenschutzrecht gibt dir Rechte auf Auskunft, Berichtigung, Löschung und Übertragbarkeit der über dich gespeicherten personenbezogenen Daten. Wir speichern keine, also gibt es nichts herauszugeben, zu berichtigen oder zu löschen. Die Daten auf deinem Gerät hast du selbst in der Hand: Den App-Speicher zu leeren oder die App zu deinstallieren entfernt sie vollständig."
+        ]
+      },
+      {
+        "heading": "Änderungen dieser Erklärung",
+        "paragraphs": [
+          "Sollte die App jemals anfangen, etwas zu erheben, wird diese Seite das sagen, bevor diese Version erscheint, und das Datum oben ändert sich."
+        ]
+      }
+    ],
+    "contactHeading": "Kontakt",
+    "contactBody": "Fragen zu dieser Erklärung:",
+    "translationNote": "Dies ist eine Übersetzung zur Erleichterung. Maßgeblich ist die englische Fassung dieser Erklärung."
+  },
+  "support": {
+    "title": "Hilfe - PointCop",
+    "description": "Antworten auf das, was wirklich schiefgeht: Die Uhr koppelt nicht, der Bildschirm schläft ein, der Spielstand stimmt nicht, die App ist in der falschen Sprache.",
+    "heading": "Hilfe",
+    "intro": "Jede Antwort hier beantwortet etwas, das wirklich schiefgeht. Steht dein Fall nicht dabei, schreib und erzähl, was passiert ist.",
+    "questions": [
+      {
+        "heading": "Die Uhr verbindet sich nicht",
+        "callout": true,
+        "body": "Eine Uhr ist eine Zugabe, keine Voraussetzung - die App zählt auch allein. Wenn das Koppeln scheitert, ist es fast immer eines davon:",
+        "list": [
+          "Die Companion-App läuft nicht. Garmin braucht Garmin Connect installiert und angemeldet; Wear OS braucht die Uhr zuerst in den Systemeinstellungen mit dem Handy gekoppelt.",
+          "Die Uhren-App fehlt. Die PointCop-App fürs Handgelenk muss auf der Uhr selbst installiert sein, aus Connect IQ oder dem Play Store auf der Uhr.",
+          "Die Uhr lädt per USB. Laden schaltet bei mehreren Garmin-Modellen Bluetooth ab.",
+          "Die Bluetooth-Berechtigung wurde abgelehnt. Unter Android in den System-App-Einstellungen erteilen und PointCop neu öffnen.",
+          "Unter iOS wird die Uhr in Garmin Connect ausgewählt: Die App schickt dich dorthin, und Connect schickt dich zurück."
+        ]
+      },
+      {
+        "heading": "Der Bildschirm ist mitten im Match eingeschlafen",
+        "body": "Sollte er nicht: Die App hält den Bildschirm während des Matches wach. Ist er trotzdem eingeschlafen, prüfe, ob das Handy in einem Energiesparmodus läuft, der sich über Apps hinwegsetzt, und ob PointCop in den Akkueinstellungen eingeschränkt ist."
+      },
+      {
+        "heading": "Jemand hat auf die falsche Seite getippt",
+        "body": "Halte die versehentlich getippte Hälfte gedrückt. Ein langer Druck nimmt diesem Paar den letzten Punkt wieder ab, und das Band zeigt wieder, was es vorher sagte."
+      },
+      {
+        "heading": "Der Spielstand bewegt sich nicht mehr",
+        "body": "Das Match ist vorbei. Nach gewonnenem Matchball werden weitere Tipper absichtlich ignoriert, damit eine unachtsame Hand auf dem Handy ein fertiges Ergebnis nicht umschreibt. Für neues Zählen ein neues Match starten."
+      },
+      {
+        "heading": "Der Tie-Break beginnt nicht, wenn ich es erwarte",
+        "body": "Prüfe das zu Beginn gewählte Format. Der Tie-Break kommt bei 6:6; der Super-Tie-Break ersetzt den Entscheidungssatz, kommt also bei best of five bei 2:2 und nicht bei 1:1."
+      },
+      {
+        "heading": "Die App ist in der falschen Sprache",
+        "body": "PointCop folgt der Sprache des Handys und fällt auf Englisch zurück, wenn es deine nicht hat. Du kannst auch in den Einstellungen eine von Hand wählen; diese Wahl gilt dann."
+      },
+      {
+        "heading": "Mein laufendes Match ist weg",
+        "body": "Das laufende Match wird auf dem Gerät gespeichert, beim erneuten Öffnen der App sollte es also zurück sein. Woanders wird es nicht gespeichert: Ein Match überlebt weder das Deinstallieren der App noch das Leeren ihres Speichers."
+      },
+      {
+        "heading": "Kostet sie etwas, oder zeigt sie Werbung?",
+        "body": "Nein. Die App ist kostenlos, ohne Werbung, ohne Abo und ohne In-App-Käufe."
+      }
+    ],
+    "contactHeading": "Immer noch nicht gelöst",
+    "contactBody": "Schreib, was passiert ist, mit welchem Handy und welcher Uhr, und was du stattdessen erwartet hast. Das reicht meist, um es zu finden."
+  }
+}

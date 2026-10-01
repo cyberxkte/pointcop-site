@@ -1,0 +1,197 @@
+{
+  "langName": "Français",
+  "nav": {
+    "label": "Principal",
+    "home": "Accueil",
+    "support": "Assistance",
+    "privacy": "Confidentialité"
+  },
+  "footer": {
+    "label": "Pied de page",
+    "tagline": "PointCop : le tableau de score de padel et de tennis pour jouer entre amis."
+  },
+  "landing": {
+    "title": "PointCop : tableau de score de padel et de tennis pour téléphone et montre",
+    "description": "Accrochez votre téléphone au grillage et il tient le score, au padel comme au tennis. La montre à votre poignet sert de télécommande. Pas de compte, pas d'inscription, rien ne quitte le téléphone.",
+    "eyebrow": "Tableau de score de padel et de tennis",
+    "heading": "Fini les disputes sur le score.",
+    "lead": "Accrochez le téléphone au grillage et il devient le tableau de score. Touchez une moitié de l'écran pour ajouter un point, appuyez longuement pour l'enlever. La montre que vous portez déjà sert de télécommande, donc plus besoin de revenir au filet.",
+    "ctaPlay": "Disponible sur Google Play",
+    "ctaApple": "Télécharger dans l'App Store",
+    "ctaNote": "Gratuit. Sans publicité, sans compte, sans achat intégré.",
+    "featuresHeading": "Ce qu'il fait",
+    "features": [
+      {
+        "heading": "Le téléphone est le tableau",
+        "body": "De grands chiffres, lisibles depuis tout le terrain et en plein soleil. L'écran reste allumé pendant le match et se rendort à la fin."
+      },
+      {
+        "heading": "La montre est la télécommande",
+        "body": "Une Garmin ou une Wear OS ajoute et retire des points depuis le poignet et affiche le même score. C'est un plus, jamais une obligation : l'application fonctionne seule."
+      },
+      {
+        "heading": "Elle annonce le jeu",
+        "body": "Points, jeux, sets, égalité, avantage, tie-break et super tie-break sont tenus par un moteur de score avec 61 tests derrière lui. Le bandeau indique en permanence où en est le match."
+      },
+      {
+        "heading": "Vos règles",
+        "body": "En deux ou trois sets gagnants, point en or ou avantage, tie-break à 6-6, super tie-break à la place du dernier set. On règle une fois par match et on joue."
+      },
+      {
+        "heading": "Couleurs par équipe",
+        "body": "Choisissez une couleur par paire : le tableau s'accorde aux maillots et personne ne lit la mauvaise moitié."
+      },
+      {
+        "heading": "Neuf langues",
+        "body": "Français, anglais, espagnol, italien, portugais, allemand, japonais, chinois et russe, en suivant la langue du téléphone."
+      }
+    ],
+    "stepsHeading": "Comment se passe un match",
+    "steps": [
+      "Choisissez le format : sets, point en or, tie-break. Cela tient en un écran.",
+      "Accrochez le téléphone au grillage, terrain en face.",
+      "Touchez votre moitié pour marquer. Appuyez longuement pour retirer le point quand quelqu'un s'est trompé.",
+      "Si vous portez une Garmin ou une Wear OS, appairez la montre et marquez depuis le poignet.",
+      "L'application annonce jeu, set et match, et prévient quand c'est terminé."
+    ],
+    "formats": {
+      "heading": "Les formats qu'il connaît",
+      "body": "Le moteur a été écrit d'après les vraies règles et chacun de ces cas a un test derrière lui.",
+      "items": [
+        "En un set, deux sets gagnants ou trois sets gagnants",
+        "Partie ouverte : pas de sets du tout, que des jeux, on arrête quand on veut",
+        "Killer, point en or ou avantage à égalité",
+        "Tie-break à 6 jeux partout, en sept points, avec deux d'écart",
+        "Super tie-break en dix à la place du set décisif",
+        "Les points après la balle de match sont ignorés : une touche involontaire ne réécrit pas le résultat"
+      ]
+    },
+    "privacyHeading": "Rien ne quitte le téléphone",
+    "privacyBody": "PointCop n'a ni compte, ni inscription, ni mesure d'audience. Les réglages du match sont enregistrés sur l'appareil et nulle part ailleurs. L'application ne nous envoie rien, parce qu'il n'y a aucun « nous » à qui l'envoyer."
+  },
+  "privacy": {
+    "title": "Politique de confidentialité - PointCop",
+    "description": "PointCop ne collecte aucune donnée personnelle. Rien ne quitte l'appareil : pas de compte, pas de mesure d'audience, pas de publicité.",
+    "heading": "Politique de confidentialité",
+    "effective": "En vigueur depuis le 1er octobre 2026",
+    "summary": "PointCop ne collecte rien, n'envoie rien et n'a pas de serveurs. Tout ce que l'application retient reste sur votre appareil et disparaît quand vous la désinstallez.",
+    "intro": "Cette politique explique ce que PointCop (« l'application ») fait des informations. Elle est courte parce que l'application fait très peu : elle tient le score d'un match de padel ou de tennis sur votre propre appareil.",
+    "sections": [
+      {
+        "heading": "Informations que nous collectons",
+        "paragraphs": [
+          "Aucune. L'application n'a ni compte, ni inscription, ni connexion, ni formulaire de contact. Nous ne collectons pas votre nom, votre adresse e-mail, votre position, vos contacts, vos photos ni aucun identifiant publicitaire."
+        ]
+      },
+      {
+        "heading": "Informations enregistrées sur votre appareil",
+        "paragraphs": [
+          "L'application enregistre localement quelques données pour se comporter correctement à la prochaine ouverture :"
+        ],
+        "list": [
+          "Le format du match : nombre de sets, point en or ou avantage, réglages du tie-break.",
+          "Les couleurs et les noms choisis pour chaque paire.",
+          "Votre langue, lorsque vous en choisissez une au lieu de suivre celle du téléphone.",
+          "L'état du match en cours, pour que fermer l'application par erreur n'emporte pas le score."
+        ]
+      },
+      {
+        "heading": "Où vont ces données",
+        "paragraphs": [
+          "Nulle part. Elles sont écrites dans le stockage propre à l'application sur votre téléphone. Elles ne sont pas téléversées, ne nous parviennent dans aucune sauvegarde et ne sont partagées avec personne. Désinstaller l'application les efface.",
+          "Le système d'exploitation du téléphone peut inclure les données de l'application dans une sauvegarde que vous avez activée vous-même, comme celle d'Android ou d'iCloud. Cette sauvegarde est la vôtre et relève des conditions de Google ou d'Apple, pas des nôtres."
+        ]
+      },
+      {
+        "heading": "Connexion à une montre",
+        "paragraphs": [
+          "Si vous appairez une montre Garmin ou Wear OS, l'application échange des messages avec elle pour afficher le score sur la montre et recevoir les points que vous ajoutez depuis le poignet. Ces messages contiennent le score et les réglages du match, rien d'autre.",
+          "Sur Android, l'échange passe par l'application compagnon Garmin Connect ou Wear OS, sur la liaison que votre téléphone a déjà avec la montre. Sur iOS, il passe par Garmin Connect. Les données circulent entre vos deux appareils ; elles ne nous parviennent pas."
+        ]
+      },
+      {
+        "heading": "Autorisations demandées",
+        "paragraphs": [
+          "Sur Android, l'application demande les autorisations Bluetooth. Elles servent à une seule chose : parler à une montre que vous avez appairée. Si vous n'appairez jamais de montre, l'application ne les utilise jamais, et elle fonctionne entièrement sans."
+        ]
+      },
+      {
+        "heading": "Mesure d'audience, publicité et traçage",
+        "paragraphs": [
+          "Il n'y en a pas. L'application ne contient aucun SDK de mesure d'audience, de publicité ou de rapport de plantage, ni traçage d'aucune sorte. Elle ne vous profile pas et ne prend aucune décision automatisée à votre sujet."
+        ]
+      },
+      {
+        "heading": "Mineurs",
+        "paragraphs": [
+          "L'application convient à tous les âges et ne collecte de données de personne, mineurs compris."
+        ]
+      },
+      {
+        "heading": "Vos droits",
+        "paragraphs": [
+          "Le droit de la protection des données vous donne des droits d'accès, de rectification, d'effacement et de portabilité sur les données personnelles détenues à votre sujet. Nous n'en détenons aucune : il n'y a donc rien à vous communiquer, à corriger ou à effacer. Les données sur votre appareil sont sous votre contrôle : vider le stockage de l'application ou la désinstaller les supprime toutes."
+        ]
+      },
+      {
+        "heading": "Modifications de cette politique",
+        "paragraphs": [
+          "Si l'application se met un jour à collecter quoi que ce soit, cette page le dira avant la publication de cette version, et la date d'entrée en vigueur ci-dessus changera."
+        ]
+      }
+    ],
+    "contactHeading": "Contact",
+    "contactBody": "Questions sur cette politique :",
+    "translationNote": "Ceci est une traduction fournie par commodité. C'est la version anglaise de cette politique qui fait foi."
+  },
+  "support": {
+    "title": "Assistance - PointCop",
+    "description": "Des réponses à ce qui arrive vraiment : la montre ne s'appaire pas, l'écran s'éteint, le score ne tombe pas juste, l'application est dans la mauvaise langue.",
+    "heading": "Assistance",
+    "intro": "Chaque réponse ici répond à quelque chose qui arrive vraiment. Si votre cas n'y figure pas, écrivez en racontant ce qui s'est passé.",
+    "questions": [
+      {
+        "heading": "La montre ne se connecte pas",
+        "callout": true,
+        "body": "La montre est un plus, pas une obligation : l'application tient le score seule. Quand l'appairage échoue, c'est presque toujours l'une de ces causes :",
+        "list": [
+          "L'application compagnon n'est pas lancée. Garmin exige Garmin Connect installé et connecté ; Wear OS exige que la montre soit déjà appairée au téléphone dans les réglages système.",
+          "L'application de la montre manque. L'application de poignet PointCop doit être installée sur la montre elle-même, depuis Connect IQ ou le Play Store sur la montre.",
+          "La montre est en charge par USB. La charge coupe le Bluetooth sur plusieurs modèles Garmin.",
+          "L'autorisation Bluetooth a été refusée. Sur Android, accordez-la dans les réglages système de l'application et rouvrez PointCop.",
+          "Sur iOS, le choix de la montre se fait dans Garmin Connect : l'application vous y envoie et Connect vous renvoie."
+        ]
+      },
+      {
+        "heading": "L'écran s'est éteint en plein match",
+        "body": "Il ne devrait pas : l'application garde l'écran allumé pendant le match. S'il s'est quand même éteint, vérifiez que le téléphone n'est pas dans un mode d'économie de batterie qui prime sur les applications et que PointCop n'est pas restreinte dans les réglages de batterie."
+      },
+      {
+        "heading": "Quelqu'un a touché le mauvais côté",
+        "body": "Appuyez longuement sur la moitié touchée par erreur. Un appui long retire le dernier point de cette paire et le bandeau revient à ce qu'il annonçait avant."
+      },
+      {
+        "heading": "Le score ne bouge plus",
+        "body": "Le match est terminé. Une fois la balle de match gagnée, les touches suivantes sont ignorées volontairement, pour qu'une main distraite sur le téléphone ne réécrive pas un résultat acquis. Lancez un nouveau match pour marquer de nouveau."
+      },
+      {
+        "heading": "Le tie-break ne démarre pas quand je m'y attends",
+        "body": "Revoyez le format choisi au départ. Le tie-break arrive à 6 jeux partout ; le super tie-break remplace le set décisif, donc en trois sets gagnants il arrive à 2 sets partout, pas à 1 partout."
+      },
+      {
+        "heading": "L'application est dans la mauvaise langue",
+        "body": "PointCop suit la langue du téléphone et bascule en anglais quand il n'a pas la vôtre. Vous pouvez aussi en choisir une à la main dans les Réglages, et ce choix prime ensuite."
+      },
+      {
+        "heading": "J'ai perdu le match en cours",
+        "body": "Le match en cours est enregistré sur l'appareil : rouvrir l'application devrait le ramener. Il n'est enregistré nulle part ailleurs : un match ne survit ni à la désinstallation de l'application ni au vidage de son stockage."
+      },
+      {
+        "heading": "Est-ce payant ? Y a-t-il de la publicité ?",
+        "body": "Non. L'application est gratuite, sans publicité, sans abonnement et sans achat intégré."
+      }
+    ],
+    "contactHeading": "Toujours bloqué",
+    "contactBody": "Écrivez en précisant ce qui s'est passé, avec quel téléphone et quelle montre, et ce que vous attendiez à la place. Cela suffit en général à trouver."
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "langName": "Español",
+  "nav": {
+    "label": "Principal",
+    "home": "Inicio",
+    "support": "Soporte",
+    "privacy": "Privacidad"
+  },
+  "footer": {
+    "label": "Pie de página",
+    "tagline": "PointCop: marcador de pádel y tenis para jugar entre amigos."
+  },
+  "landing": {
+    "title": "PointCop: marcador de pádel y tenis para el móvil y el reloj",
+    "description": "Cuelga el móvil en la valla y lleva el tanteo, en pádel o en tenis. El reloj que llevas puesto hace de mando. Sin cuenta, sin registro y sin que nada salga del móvil.",
+    "eyebrow": "Marcador de pádel y tenis",
+    "heading": "Se acabó discutir el tanteo.",
+    "lead": "Cuelga el móvil en la valla y se convierte en el marcador. Toca una mitad de la pantalla para sumar un punto y mantén pulsado para quitarlo. El reloj que ya llevas en la muñeca hace de mando, así que no hay que volver a la red.",
+    "ctaPlay": "Disponible en Google Play",
+    "ctaApple": "Descargar en el App Store",
+    "ctaNote": "Gratis. Sin anuncios, sin cuenta y sin compras dentro de la app.",
+    "featuresHeading": "Qué hace",
+    "features": [
+      {
+        "heading": "El móvil es el marcador",
+        "body": "Números grandes, legibles desde el otro lado de la pista y a pleno sol. La pantalla no se apaga mientras hay partido y vuelve a dormirse al terminar."
+      },
+      {
+        "heading": "El reloj es el mando",
+        "body": "Un Garmin o un Wear OS suma y quita puntos desde la muñeca y enseña el mismo tanteo. Es una mejora, nunca un requisito: la app funciona entera sin reloj."
+      },
+      {
+        "heading": "Canta el juego",
+        "body": "Puntos, juegos, sets, iguales, ventaja, tie-break y super tie-break los lleva un motor de puntuación con 61 tests detrás. El banner dice en todo momento cómo va el partido."
+      },
+      {
+        "heading": "Tus reglas",
+        "body": "Al mejor de tres o de cinco sets, punto de oro o ventaja, tie-break en el 6-6, super tie-break en lugar del último set. Se configura una vez por partido y a jugar."
+      },
+      {
+        "heading": "Colores por pareja",
+        "body": "Elige un color para cada pareja y el marcador va a juego con las camisetas, para que nadie mire la mitad equivocada."
+      },
+      {
+        "heading": "Nueve idiomas",
+        "body": "Español, inglés, italiano, francés, portugués, alemán, japonés, chino y ruso, siguiendo el idioma del móvil."
+      }
+    ],
+    "stepsHeading": "Cómo va un partido",
+    "steps": [
+      "Elige el formato: sets, punto de oro, tie-break. Cabe en una pantalla.",
+      "Cuelga el móvil en la valla, con la pista delante.",
+      "Toca tu mitad para sumar. Mantén pulsado para quitar el punto cuando alguien se ha liado.",
+      "Si llevas un Garmin o un Wear OS, empareja el reloj y puntúa desde la muñeca.",
+      "La app canta juego, set y partido, y avisa cuando se ha acabado."
+    ],
+    "formats": {
+      "heading": "Formatos que conoce",
+      "body": "El motor se escribió contra las reglas de verdad y cada uno de estos casos tiene un test detrás.",
+      "items": [
+        "A un set, al mejor de tres o al mejor de cinco",
+        "Partida abierta: sin sets, se juega a juegos y se para cuando queráis",
+        "Killer, punto de oro o ventajas en los iguales",
+        "Tie-break en el 6-6, a siete puntos y con dos de diferencia",
+        "Super tie-break a diez en lugar del set decisivo",
+        "Los puntos posteriores al punto de partido se ignoran, así que un toque despistado no reescribe el resultado"
+      ]
+    },
+    "privacyHeading": "Nada sale del móvil",
+    "privacyBody": "PointCop no tiene cuenta, ni registro, ni analítica. Los ajustes del partido se guardan en el dispositivo y en ningún otro sitio. La app no nos envía nada, porque no hay ningún «nosotros» al que enviarlo."
+  },
+  "privacy": {
+    "title": "Política de privacidad - PointCop",
+    "description": "PointCop no recoge datos personales. Nada sale del dispositivo: no hay cuenta, ni analítica, ni publicidad.",
+    "heading": "Política de privacidad",
+    "effective": "En vigor desde el 1 de octubre de 2026",
+    "summary": "PointCop no recoge nada, no envía nada y no tiene servidores. Todo lo que la app recuerda se queda en tu dispositivo y desaparece cuando la desinstalas.",
+    "intro": "Esta política explica qué hace PointCop («la app») con la información. Es corta porque la app hace muy poco: lleva el tanteo de un partido de pádel o de tenis en tu propio dispositivo.",
+    "sections": [
+      {
+        "heading": "Información que recogemos",
+        "paragraphs": [
+          "Ninguna. La app no tiene cuenta, ni registro, ni inicio de sesión, ni formulario de contacto. No recogemos tu nombre, tu correo, tu ubicación, tus contactos, tus fotos ni ningún identificador publicitario."
+        ]
+      },
+      {
+        "heading": "Información guardada en tu dispositivo",
+        "paragraphs": [
+          "La app guarda localmente unos pocos datos para comportarse con sentido la próxima vez que la abras:"
+        ],
+        "list": [
+          "El formato del partido: número de sets, punto de oro o ventaja, ajustes del tie-break.",
+          "Los colores y los nombres que elegiste para cada pareja.",
+          "Tu idioma, cuando eliges uno en lugar de seguir al del móvil.",
+          "El estado del partido en curso, para que cerrar la app sin querer no se lleve por delante el tanteo."
+        ]
+      },
+      {
+        "heading": "Adónde van esos datos",
+        "paragraphs": [
+          "A ninguna parte. Se escriben en el almacenamiento propio de la app en tu móvil. No se suben, no nos llegan en ninguna copia de seguridad y no se comparten con nadie. Desinstalar la app los borra.",
+          "El sistema operativo del móvil puede incluir los datos de la app en una copia de seguridad que hayas activado tú, como la de Android o la de iCloud. Esa copia es tuya y se rige por las condiciones de Google o de Apple, no por las nuestras."
+        ]
+      },
+      {
+        "heading": "Conexión con un reloj",
+        "paragraphs": [
+          "Si emparejas un reloj Garmin o Wear OS, la app intercambia mensajes con él para enseñar el tanteo en el reloj y recibir los puntos que sumas desde la muñeca. Esos mensajes llevan el tanteo y los ajustes del partido, nada más.",
+          "En Android el intercambio pasa por la app acompañante de Garmin Connect o de Wear OS, sobre el enlace que tu móvil ya tiene con el reloj. En iOS pasa por Garmin Connect. Los datos viajan entre tus dos dispositivos; a nosotros no nos llegan."
+        ]
+      },
+      {
+        "heading": "Permisos que pide la app",
+        "paragraphs": [
+          "En Android la app pide permisos de Bluetooth. Se usan para una sola cosa: hablar con un reloj que hayas emparejado. Si nunca emparejas un reloj, la app nunca los usa, y funciona entera sin ellos."
+        ]
+      },
+      {
+        "heading": "Analítica, publicidad y seguimiento",
+        "paragraphs": [
+          "No hay. La app no incluye ningún SDK de analítica, ni de publicidad, ni de informes de fallos, ni seguimiento de ningún tipo. No te perfila y no toma decisiones automatizadas sobre ti."
+        ]
+      },
+      {
+        "heading": "Menores",
+        "paragraphs": [
+          "La app es apta para todos los públicos y no recoge datos de nadie, menores incluidos."
+        ]
+      },
+      {
+        "heading": "Tus derechos",
+        "paragraphs": [
+          "La normativa de protección de datos te da derecho de acceso, rectificación, supresión y portabilidad sobre los datos personales que alguien tenga sobre ti. Nosotros no tenemos ninguno, así que no hay nada que darte, corregir ni borrar. Los datos de tu dispositivo están bajo tu control: borrar el almacenamiento de la app o desinstalarla los elimina todos."
+        ]
+      },
+      {
+        "heading": "Cambios en esta política",
+        "paragraphs": [
+          "Si alguna vez la app empieza a recoger algo, esta página lo dirá antes de que esa versión se publique, y cambiará la fecha de entrada en vigor de arriba."
+        ]
+      }
+    ],
+    "contactHeading": "Contacto",
+    "contactBody": "Dudas sobre esta política:",
+    "translationNote": "Esta es una traducción facilitada por comodidad. La versión en inglés de esta política es la que rige."
+  },
+  "support": {
+    "title": "Soporte - PointCop",
+    "description": "Respuestas a lo que falla de verdad: el reloj no empareja, la pantalla se apaga, el tanteo no cuadra, la app está en otro idioma.",
+    "heading": "Soporte",
+    "intro": "Cada respuesta de aquí responde a algo que falla de verdad. Si lo tuyo no está en la lista, escribe y cuenta qué pasó.",
+    "questions": [
+      {
+        "heading": "El reloj no conecta",
+        "callout": true,
+        "body": "El reloj es una mejora, no un requisito: la app lleva el tanteo ella sola. Cuando el emparejamiento falla, casi siempre es una de estas:",
+        "list": [
+          "La app acompañante no está en marcha. Garmin necesita Garmin Connect instalado y con la sesión iniciada; Wear OS necesita que el reloj ya esté emparejado con el móvil en los ajustes del sistema.",
+          "Falta la app del reloj. La app de reloj de PointCop tiene que estar instalada en el propio reloj, desde Connect IQ o desde Play Store en el reloj.",
+          "El reloj está cargando por USB. Cargar apaga el Bluetooth en varios modelos de Garmin.",
+          "Se denegó el permiso de Bluetooth. En Android, concédelo en los ajustes de la app del sistema y vuelve a abrir PointCop.",
+          "En iOS el reloj se elige dentro de Garmin Connect: la app te manda allí y Connect te devuelve."
+        ]
+      },
+      {
+        "heading": "La pantalla se apagó en mitad del partido",
+        "body": "No debería: la app mantiene la pantalla encendida mientras hay partido. Si aun así se apagó, comprueba que el móvil no esté en un modo de ahorro de batería que se imponga a las apps y que PointCop no esté restringida en los ajustes de batería."
+      },
+      {
+        "heading": "Alguien tocó el lado equivocado",
+        "body": "Mantén pulsada la mitad que se tocó por error. Una pulsación larga quita el último punto de esa pareja y el banner vuelve a lo que decía antes."
+      },
+      {
+        "heading": "El tanteo ya no se mueve",
+        "body": "El partido ha terminado. Una vez ganado el punto de partido, los toques posteriores se ignoran a propósito, para que una mano despistada sobre el móvil no reescriba un resultado cerrado. Empieza un partido nuevo para volver a puntuar."
+      },
+      {
+        "heading": "El tie-break no entra cuando esperaba",
+        "body": "Repasa el formato que elegiste al empezar. El tie-break llega en el 6-6; el super tie-break sustituye al set decisivo, así que al mejor de cinco llega con 2-2, no con 1-1."
+      },
+      {
+        "heading": "La app está en otro idioma",
+        "body": "PointCop sigue el idioma del móvil y usa el inglés cuando no tiene el tuyo. También puedes elegir uno a mano en Ajustes, y esa elección manda a partir de entonces."
+      },
+      {
+        "heading": "He perdido el partido que estaba jugando",
+        "body": "El partido en curso se guarda en el dispositivo, así que al volver a abrir la app debería aparecer. No se guarda en ningún otro sitio: un partido no sobrevive a desinstalar la app ni a borrar su almacenamiento."
+      },
+      {
+        "heading": "¿Cuesta algo o tiene anuncios?",
+        "body": "No. La app es gratuita, no tiene publicidad, ni suscripción, ni compras dentro de la app."
+      }
+    ],
+    "contactHeading": "Si sigue sin ir",
+    "contactBody": "Escribe contando qué pasó, con qué móvil y qué reloj, y qué esperabas que ocurriera. Con eso suele bastar para dar con ello."
+  }
+}

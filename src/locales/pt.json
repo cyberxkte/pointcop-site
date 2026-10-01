@@ -1,0 +1,197 @@
+{
+  "langName": "Português",
+  "nav": {
+    "label": "Principal",
+    "home": "Início",
+    "support": "Suporte",
+    "privacy": "Privacidade"
+  },
+  "footer": {
+    "label": "Rodapé",
+    "tagline": "PointCop: o marcador de padel e ténis para jogar entre amigos."
+  },
+  "landing": {
+    "title": "PointCop: marcador de padel e ténis para o telemóvel e o relógio",
+    "description": "Pendure o telemóvel na rede e ele faz de marcador, no padel ou no ténis. O relógio que traz no pulso serve de comando. Sem conta, sem registo e sem nada sair do telemóvel.",
+    "eyebrow": "Marcador de padel e ténis",
+    "heading": "Acabaram-se as discussões sobre o resultado.",
+    "lead": "Pendure o telemóvel na rede e ele passa a ser o marcador. Toque numa metade do ecrã para somar um ponto e mantenha premido para o tirar. O relógio que já traz no pulso serve de comando, por isso não é preciso voltar à rede.",
+    "ctaPlay": "Disponível no Google Play",
+    "ctaApple": "Descarregar na App Store",
+    "ctaNote": "Grátis. Sem anúncios, sem conta e sem compras dentro da aplicação.",
+    "featuresHeading": "O que faz",
+    "features": [
+      {
+        "heading": "O telemóvel é o marcador",
+        "body": "Números grandes, legíveis de um lado ao outro do campo e em pleno sol. O ecrã fica aceso enquanto há jogo e volta a adormecer no fim."
+      },
+      {
+        "heading": "O relógio é o comando",
+        "body": "Um Garmin ou um Wear OS soma e tira pontos a partir do pulso e mostra o mesmo resultado. É um extra, nunca um requisito: a aplicação funciona sozinha."
+      },
+      {
+        "heading": "Canta o jogo",
+        "body": "Pontos, jogos, sets, iguais, vantagem, tie-break e super tie-break são contados por um motor de pontuação com 61 testes por trás. A faixa diz sempre como está o jogo."
+      },
+      {
+        "heading": "As suas regras",
+        "body": "À melhor de três ou de cinco sets, ponto de ouro ou vantagem, tie-break no 6-6, super tie-break em vez do último set. Configura-se uma vez por jogo e joga-se."
+      },
+      {
+        "heading": "Cores por dupla",
+        "body": "Escolha uma cor para cada dupla: o marcador fica a condizer com as camisolas e ninguém lê a metade errada."
+      },
+      {
+        "heading": "Nove idiomas",
+        "body": "Português, inglês, espanhol, italiano, francês, alemão, japonês, chinês e russo, seguindo o idioma do telemóvel."
+      }
+    ],
+    "stepsHeading": "Como corre um jogo",
+    "steps": [
+      "Escolha o formato: sets, ponto de ouro, tie-break. Cabe num ecrã.",
+      "Pendure o telemóvel na rede, com o campo à frente.",
+      "Toque na sua metade para somar. Mantenha premido para tirar o ponto quando alguém se enganou.",
+      "Se traz um Garmin ou um Wear OS, emparelhe o relógio e pontue a partir do pulso.",
+      "A aplicação canta jogo, set e partida, e avisa quando terminou."
+    ],
+    "formats": {
+      "heading": "Formatos que conhece",
+      "body": "O motor foi escrito contra as regras a sério e cada um destes casos tem um teste por trás.",
+      "items": [
+        "A um set, à melhor de três ou à melhor de cinco",
+        "Jogo aberto: sem sets, joga-se a jogos e para-se quando quiserem",
+        "Killer, ponto de ouro ou vantagens nos iguais",
+        "Tie-break no 6-6, a sete pontos e com dois de diferença",
+        "Super tie-break a dez em vez do set decisivo",
+        "Os pontos depois do ponto de jogo são ignorados, por isso um toque distraído não reescreve o resultado"
+      ]
+    },
+    "privacyHeading": "Nada sai do telemóvel",
+    "privacyBody": "O PointCop não tem conta, nem registo, nem análise de utilização. As definições do jogo ficam guardadas no dispositivo e em mais lado nenhum. A aplicação não nos envia nada, porque não há nenhum «nós» a quem enviar."
+  },
+  "privacy": {
+    "title": "Política de privacidade - PointCop",
+    "description": "O PointCop não recolhe dados pessoais. Nada sai do dispositivo: não há conta, nem análise de utilização, nem publicidade.",
+    "heading": "Política de privacidade",
+    "effective": "Em vigor desde 1 de outubro de 2026",
+    "summary": "O PointCop não recolhe nada, não envia nada e não tem servidores. Tudo o que a aplicação guarda fica no seu dispositivo e desaparece quando a desinstala.",
+    "intro": "Esta política explica o que o PointCop («a aplicação») faz com informação. É curta porque a aplicação faz muito pouco: conta os pontos de um jogo de padel ou de ténis no seu próprio dispositivo.",
+    "sections": [
+      {
+        "heading": "Informação que recolhemos",
+        "paragraphs": [
+          "Nenhuma. A aplicação não tem conta, nem registo, nem início de sessão, nem formulário de contacto. Não recolhemos o seu nome, o seu email, a sua localização, os seus contactos, as suas fotografias nem qualquer identificador publicitário."
+        ]
+      },
+      {
+        "heading": "Informação guardada no seu dispositivo",
+        "paragraphs": [
+          "A aplicação guarda localmente alguns dados para se comportar com sentido da próxima vez que a abrir:"
+        ],
+        "list": [
+          "O formato do jogo: número de sets, ponto de ouro ou vantagem, definições do tie-break.",
+          "As cores e os nomes escolhidos para cada dupla.",
+          "O seu idioma, quando escolhe um em vez de seguir o do telemóvel.",
+          "O estado do jogo em curso, para que fechar a aplicação sem querer não leve o resultado."
+        ]
+      },
+      {
+        "heading": "Para onde vão esses dados",
+        "paragraphs": [
+          "Para lado nenhum. São escritos no armazenamento próprio da aplicação no seu telemóvel. Não são carregados, não nos chegam em cópia de segurança nenhuma e não são partilhados com ninguém. Desinstalar a aplicação apaga-os.",
+          "O sistema operativo do telemóvel pode incluir os dados da aplicação numa cópia de segurança que tenha ativado, como a do Android ou a do iCloud. Essa cópia é sua e rege-se pelos termos da Google ou da Apple, não pelos nossos."
+        ]
+      },
+      {
+        "heading": "Ligação a um relógio",
+        "paragraphs": [
+          "Se emparelhar um relógio Garmin ou Wear OS, a aplicação troca mensagens com ele para mostrar o resultado no relógio e receber os pontos que soma a partir do pulso. Essas mensagens levam o resultado e as definições do jogo, mais nada.",
+          "No Android a troca passa pela aplicação acompanhante do Garmin Connect ou do Wear OS, sobre a ligação que o telemóvel já tem com o relógio. No iOS passa pelo Garmin Connect. Os dados viajam entre os seus dois dispositivos; a nós não chegam."
+        ]
+      },
+      {
+        "heading": "Permissões que a aplicação pede",
+        "paragraphs": [
+          "No Android a aplicação pede permissões de Bluetooth. Servem para uma coisa só: falar com um relógio que tenha emparelhado. Se nunca emparelhar um relógio, a aplicação nunca as usa, e funciona por inteiro sem elas."
+        ]
+      },
+      {
+        "heading": "Análise de utilização, publicidade e rastreio",
+        "paragraphs": [
+          "Não existem. A aplicação não inclui SDK de análise, nem de publicidade, nem de relatórios de falhas, nem rastreio de qualquer espécie. Não o perfila e não toma decisões automatizadas sobre si."
+        ]
+      },
+      {
+        "heading": "Menores",
+        "paragraphs": [
+          "A aplicação é adequada a todas as idades e não recolhe dados de ninguém, menores incluídos."
+        ]
+      },
+      {
+        "heading": "Os seus direitos",
+        "paragraphs": [
+          "A legislação de proteção de dados dá-lhe direitos de acesso, retificação, apagamento e portabilidade sobre dados pessoais que alguém detenha a seu respeito. Nós não detemos nenhum, por isso não há nada para lhe dar, corrigir ou apagar. Os dados no seu dispositivo estão sob o seu controlo: limpar o armazenamento da aplicação ou desinstalá-la remove-os todos."
+        ]
+      },
+      {
+        "heading": "Alterações a esta política",
+        "paragraphs": [
+          "Se algum dia a aplicação começar a recolher alguma coisa, esta página dirá isso antes de essa versão ser publicada, e a data de entrada em vigor acima mudará."
+        ]
+      }
+    ],
+    "contactHeading": "Contacto",
+    "contactBody": "Dúvidas sobre esta política:",
+    "translationNote": "Esta é uma tradução facultada por conveniência. A versão em inglês desta política é a que prevalece."
+  },
+  "support": {
+    "title": "Suporte - PointCop",
+    "description": "Respostas ao que corre mesmo mal: o relógio não emparelha, o ecrã apaga-se, o resultado não bate certo, a aplicação está noutro idioma.",
+    "heading": "Suporte",
+    "intro": "Cada resposta aqui responde a algo que acontece mesmo. Se o seu caso não estiver na lista, escreva a contar o que aconteceu.",
+    "questions": [
+      {
+        "heading": "O relógio não liga",
+        "callout": true,
+        "body": "O relógio é um extra, não um requisito: a aplicação conta os pontos sozinha. Quando o emparelhamento falha, é quase sempre uma destas:",
+        "list": [
+          "A aplicação acompanhante não está a correr. O Garmin precisa do Garmin Connect instalado e com sessão iniciada; o Wear OS precisa que o relógio já esteja emparelhado com o telemóvel nas definições do sistema.",
+          "Falta a aplicação do relógio. A aplicação de pulso do PointCop tem de estar instalada no próprio relógio, a partir do Connect IQ ou da Play Store no relógio.",
+          "O relógio está a carregar por USB. Carregar desliga o Bluetooth em vários modelos Garmin.",
+          "A permissão de Bluetooth foi recusada. No Android, conceda-a nas definições do sistema para a aplicação e volte a abrir o PointCop.",
+          "No iOS o relógio escolhe-se dentro do Garmin Connect: a aplicação manda-o para lá e o Connect devolve-o."
+        ]
+      },
+      {
+        "heading": "O ecrã apagou-se a meio do jogo",
+        "body": "Não devia: a aplicação mantém o ecrã aceso enquanto há jogo. Se mesmo assim se apagou, verifique que o telemóvel não está num modo de poupança de bateria que se sobreponha às aplicações e que o PointCop não está restringido nas definições de bateria."
+      },
+      {
+        "heading": "Alguém tocou no lado errado",
+        "body": "Mantenha premida a metade tocada por engano. Uma pressão longa tira o último ponto a essa dupla e a faixa volta ao que dizia antes."
+      },
+      {
+        "heading": "O resultado deixou de mexer",
+        "body": "O jogo acabou. Depois de ganho o ponto de jogo, os toques seguintes são ignorados de propósito, para que uma mão distraída no telemóvel não reescreva um resultado fechado. Comece um jogo novo para voltar a pontuar."
+      },
+      {
+        "heading": "O tie-break não entra quando esperava",
+        "body": "Reveja o formato escolhido no início. O tie-break chega no 6-6; o super tie-break substitui o set decisivo, por isso à melhor de cinco chega no 2-2, não no 1-1."
+      },
+      {
+        "heading": "A aplicação está noutro idioma",
+        "body": "O PointCop segue o idioma do telemóvel e recorre ao inglês quando não tem o seu. Também pode escolher um à mão nas Definições, e essa escolha manda daí em diante."
+      },
+      {
+        "heading": "Perdi o jogo que estava a jogar",
+        "body": "O jogo em curso fica guardado no dispositivo, por isso ao reabrir a aplicação deve reaparecer. Não fica guardado em mais lado nenhum: um jogo não sobrevive a desinstalar a aplicação nem a limpar o seu armazenamento."
+      },
+      {
+        "heading": "Custa alguma coisa ou tem anúncios?",
+        "body": "Não. A aplicação é gratuita, não tem publicidade, nem subscrição, nem compras dentro da aplicação."
+      }
+    ],
+    "contactHeading": "Se continuar sem funcionar",
+    "contactBody": "Escreva a contar o que aconteceu, com que telemóvel e que relógio, e o que esperava em vez disso. Normalmente chega para descobrir."
+  }
+}

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cyberxkte.github.io/pointcop-site/sitemap.xml

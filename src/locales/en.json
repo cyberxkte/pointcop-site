@@ -1,0 +1,197 @@
+{
+  "langName": "English",
+  "nav": {
+    "label": "Main",
+    "home": "Home",
+    "support": "Support",
+    "privacy": "Privacy"
+  },
+  "footer": {
+    "label": "Footer",
+    "tagline": "PointCop - a padel and tennis scoreboard for playing with friends."
+  },
+  "landing": {
+    "title": "PointCop - Padel and tennis scoreboard for your phone and your watch",
+    "description": "Hang your phone on the fence and it keeps the score, at padel or at tennis. The watch on your wrist works the remote. No account, no sign-up, nothing leaves your phone.",
+    "eyebrow": "Padel and tennis scoreboard",
+    "heading": "Stop arguing about the score.",
+    "lead": "Hang your phone on the fence and it becomes the scoreboard. Tap a half of the screen to add a point, hold to take one back. The watch already on your wrist works as the remote, so you never walk back to the net.",
+    "ctaPlay": "Get it on Google Play",
+    "ctaApple": "Download on the App Store",
+    "ctaNote": "Free. No ads, no account, no in-app purchases.",
+    "featuresHeading": "What it does",
+    "features": [
+      {
+        "heading": "The phone is the scoreboard",
+        "body": "Big numbers, readable across the court, in daylight. The screen stays awake while a match is on and goes back to sleep when it ends."
+      },
+      {
+        "heading": "The watch is the remote",
+        "body": "A Garmin or Wear OS watch adds and removes points from your wrist and shows the same score. It is an extra, never a requirement: the app works on its own."
+      },
+      {
+        "heading": "It calls the game",
+        "body": "Points, games, sets, deuce, advantage, tie-break and super tie-break are counted by a scoring engine with 61 tests behind it. The banner tells you where the match stands."
+      },
+      {
+        "heading": "Your rules",
+        "body": "Best of three or five sets, golden point, advantage, tie-break at six, super tie-break instead of a final set. Set it up once per match and play."
+      },
+      {
+        "heading": "Team colours",
+        "body": "Pick a colour per team so the scoreboard matches the shirts, and nobody reads the wrong half."
+      },
+      {
+        "heading": "Nine languages",
+        "body": "English, Spanish, Italian, French, Portuguese, German, Japanese, Chinese and Russian, following the phone's own language."
+      }
+    ],
+    "stepsHeading": "How a match goes",
+    "steps": [
+      "Set the format: sets, golden point, tie-break. It takes one screen.",
+      "Hang the phone on the fence with the court in front of it.",
+      "Tap your half for a point. Hold it to take one back when somebody miscounts.",
+      "If you are wearing a Garmin or Wear OS watch, pair it and score from your wrist instead.",
+      "The app calls game, set and match, and tells you when it is over."
+    ],
+    "formats": {
+      "heading": "Formats it knows",
+      "body": "The engine was written against the real rules and every one of these has a test behind it.",
+      "items": [
+        "One set, best of three or best of five",
+        "Open play: no sets at all, just games, stop when you like",
+        "Killer, golden point or advantage at deuce",
+        "Tie-break at six games all, to seven points, win by two",
+        "Super tie-break to ten in place of a deciding set",
+        "Points after match point are ignored, so a stray tap cannot rewrite the result"
+      ]
+    },
+    "privacyHeading": "Nothing leaves your phone",
+    "privacyBody": "PointCop has no account, no sign-up and no analytics. Your match settings are saved on the device and nowhere else. The app sends nothing to us, because there is no us to send it to."
+  },
+  "privacy": {
+    "title": "Privacy policy - PointCop",
+    "description": "PointCop collects no personal data. Nothing is sent off the device; there is no account, no analytics and no advertising.",
+    "heading": "Privacy policy",
+    "effective": "Effective 1 October 2026",
+    "summary": "PointCop collects nothing, sends nothing and has no servers. Everything the app remembers stays on your device and disappears when you uninstall it.",
+    "intro": "This policy explains what PointCop (\"the app\") does with information. It is short because the app does very little: it keeps the score of a padel or tennis match on your own device.",
+    "sections": [
+      {
+        "heading": "Information we collect",
+        "paragraphs": [
+          "None. The app has no account, no sign-up, no login and no contact form. We do not collect your name, your email address, your location, your contacts, your photos or any identifier for advertising."
+        ]
+      },
+      {
+        "heading": "Information stored on your device",
+        "paragraphs": [
+          "The app saves a small amount of data locally so it behaves sensibly the next time you open it:"
+        ],
+        "list": [
+          "Your match format: number of sets, golden point or advantage, tie-break settings.",
+          "The team colours and names you chose.",
+          "Your language choice, when you set one instead of following the phone.",
+          "The state of a match in progress, so closing the app by accident does not lose the score."
+        ]
+      },
+      {
+        "heading": "Where that data goes",
+        "paragraphs": [
+          "Nowhere. It is written to your phone's own app storage. It is not uploaded, not backed up to us, and not shared with anyone. Uninstalling the app deletes it.",
+          "Your phone's operating system may include app data in a backup you have enabled yourself, such as an Android or iCloud backup. That backup is yours and is governed by Google's or Apple's terms, not ours."
+        ]
+      },
+      {
+        "heading": "Connecting to a watch",
+        "paragraphs": [
+          "If you pair a Garmin or Wear OS watch, the app exchanges messages with it to show the score on the watch and to receive the points you add from your wrist. Those messages contain the score and the match settings, nothing else.",
+          "On Android the exchange goes through the Garmin Connect or Wear OS companion app over the link your phone already has with the watch. On iOS it goes through Garmin Connect. The data travels between your own two devices; it does not reach us."
+        ]
+      },
+      {
+        "heading": "Permissions the app asks for",
+        "paragraphs": [
+          "The app requests Bluetooth permissions on Android. They are used for one thing only: talking to a watch you have paired. If you never pair a watch, the app never uses them, and it works fully without them."
+        ]
+      },
+      {
+        "heading": "Analytics, advertising and tracking",
+        "paragraphs": [
+          "There are none. The app contains no analytics SDK, no advertising SDK, no crash reporter and no tracking of any kind. It does not profile you and it makes no automated decisions about you."
+        ]
+      },
+      {
+        "heading": "Children",
+        "paragraphs": [
+          "The app is suitable for all ages and collects no data from anyone, children included."
+        ]
+      },
+      {
+        "heading": "Your rights",
+        "paragraphs": [
+          "Data protection law gives you rights of access, correction, deletion and portability over personal data held about you. We hold none, so there is nothing for us to give you, correct or erase. The data on your device is under your control: clearing the app's storage or uninstalling it removes all of it."
+        ]
+      },
+      {
+        "heading": "Changes to this policy",
+        "paragraphs": [
+          "If the app ever starts collecting anything, this page will say so before that version ships, and the effective date above will change."
+        ]
+      }
+    ],
+    "contactHeading": "Contact",
+    "contactBody": "Questions about this policy:",
+    "translationNote": "This is a translation provided for convenience. The English version of this policy is the one that governs."
+  },
+  "support": {
+    "title": "Support - PointCop",
+    "description": "Answers to the things that actually go wrong: the watch will not pair, the screen goes to sleep, the score is wrong, the app is in the wrong language.",
+    "heading": "Support",
+    "intro": "Every answer here is a real answer to something that actually goes wrong. If yours is not on the list, write and say what happened.",
+    "questions": [
+      {
+        "heading": "The watch will not connect",
+        "callout": true,
+        "body": "A watch is an extra, not a requirement - the app keeps score on its own. When pairing does fail, it is almost always one of these:",
+        "list": [
+          "The companion app is not running. Garmin needs Garmin Connect installed and signed in; Wear OS needs the watch paired to the phone in the system settings first.",
+          "The watch app is not installed. The PointCop watch app has to be on the watch itself, from Connect IQ or the Play Store on the watch.",
+          "The watch is charging over USB. Charging turns Bluetooth off on several Garmin models.",
+          "Bluetooth permission was declined. On Android, allow it in the system app settings and open PointCop again.",
+          "On iOS, picking the watch happens inside Garmin Connect: the app sends you there and Connect sends you back."
+        ]
+      },
+      {
+        "heading": "The screen went to sleep in the middle of a match",
+        "body": "It should not: the app keeps the screen awake while a match is on. If it slept anyway, check that your phone is not in a battery saver mode that overrides apps, and that PointCop is not restricted in the battery settings."
+      },
+      {
+        "heading": "Somebody tapped the wrong side",
+        "body": "Hold the half that was tapped by mistake. A long press removes the last point from that team, and the banner goes back to what it said before."
+      },
+      {
+        "heading": "The score stopped moving",
+        "body": "The match is over. Once match point is won, further taps are ignored on purpose, so a stray hand on the phone cannot rewrite a finished result. Start a new match to score again."
+      },
+      {
+        "heading": "The tie-break is not starting when I expect",
+        "body": "Check the format you chose at the start of the match. A tie-break arrives at six games all; a super tie-break replaces the deciding set, so in a best of five it arrives at two sets all, not one all."
+      },
+      {
+        "heading": "The app is in the wrong language",
+        "body": "PointCop follows your phone's language and falls back to English when it does not have yours. You can also pick one by hand in Settings, and that choice wins from then on."
+      },
+      {
+        "heading": "I lost the match I was playing",
+        "body": "The match in progress is saved on the device, so reopening the app should bring it back. It is not saved anywhere else: a match does not survive uninstalling the app or clearing its storage."
+      },
+      {
+        "heading": "Does it cost anything, or show ads?",
+        "body": "No. The app is free, has no advertising, no subscription and no in-app purchases."
+      }
+    ],
+    "contactHeading": "Still stuck",
+    "contactBody": "Write and say what happened, what phone and watch you are using, and what you expected instead. That is usually enough to find it."
+  }
+}
