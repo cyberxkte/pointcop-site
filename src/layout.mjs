@@ -19,7 +19,7 @@
  *            mailbox is worse than no mailbox.
  */
 export const SITE = 'https://cyberxkte.github.io/pointcop-site';
-export const CONTACT = 'soporte@pointcop.app';
+export const CONTACT = 'support@afinora.app';
 
 export const PLAY_URL = 'https://play.google.com/store/apps/details?id=app.pointcop';
 
